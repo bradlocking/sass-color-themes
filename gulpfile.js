@@ -9,7 +9,7 @@ var sass 		= require('gulp-sass'),
 // sass compiler for general main.css
 gulp.task('sass', function () {
   return gulp.src([
-  		'./src/sass/main.scss',
+  		'src/sass/main.scss',
     ])
 	.pipe(sourcemaps.init())
     .pipe(sass({
