@@ -18,7 +18,7 @@ It has been built to work with a `data-theme` data attribute so that it doesn't 
 2. Clone this repo (or download directly).
 3. Open the command line of your choice and cd to the root directory of this repo on your machine.
 4. Install Gulp globally by running `npm install -g gulp` in your terminal window
-5. Now that you have NodeJS installed, you can run `npm install`. This will read the `package.json file and install all required dependencies.
+5. Now that you have NodeJS installed, you can run `npm install` in the root director. This will read the `package.json file and install all required dependencies in a node_modules folder.
 6. To initiate the SASS gulp function, entering `gulp watch` in the project root will fire it up in your terminal window. 
 
 > **NOTE**: Gulp.watch is used typically for small projects, and so the watch function doesn't recognise when SASS files are added or deleted. The terminal process running the gulp task has to be restarted to pick up any new SASS files. 
