@@ -1,5 +1,5 @@
 {
-  "name": "caprice-editorial",
+  "name": "sass-color-themes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bradlocking@bitbucket.org/admin_thehideout/chl-editorial.git"
+    "url": "https://github.com/bradlocking/sass-color-themes"
   },
   "author": "The Hideout",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/admin_thehideout/chl-editorial#readme",
+  "homepage": "https://github.com/bradlocking/sass-color-themes",
   "devDependencies": {
-    "browser-sync": "^2.17.0",
     "gulp": "^3.9.1",
-    "gulp-livereload": "^3.8.1",
     "gulp-sass": "^3.1.0"
   },
   "dependencies": {
