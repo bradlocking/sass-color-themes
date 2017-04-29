@@ -6,11 +6,11 @@ It has been built to work with a `data-theme` data attribute so that it doesn't 
 
 ## The build supplies the following
 
-*. Gulp `watch` setup for reading and compiling the SASS directory. 
-  * Using `gulp-sass` for the compiling
-  * Included `gulp-sourcemaps` to embed inline sourcemaps within the compiled `main.css` file
-*. Reset stylesheet by [Meyer Web](https://meyerweb.com/eric/tools/css/reset/) (with a few tweaks).
-*. A Read more component which is being used to illustrate the colour theme setup.
+* Gulp `watch` setup for reading and compiling the SASS directory. 
+  - Using `gulp-sass` for the compiling
+  - Included `gulp-sourcemaps` to embed inline sourcemaps within the compiled `main.css` file
+* Reset stylesheet by [Meyer Web](https://meyerweb.com/eric/tools/css/reset/) (with a few tweaks).
+* A Read more component which is being used to illustrate the colour theme setup.
 
 ## To get Started
 
